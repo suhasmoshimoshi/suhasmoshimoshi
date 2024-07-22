@@ -31,22 +31,22 @@
 
 <h3 align="center">🚀 Projects</h3>
 
-1. **Research And Ranking (SEBI Registered Investment Advisory)**
+1. **[Research And Ranking](https://rnr-staging.moshimoshi.cloud/researchandranking) (SEBI Registered Investment Advisory)**
    - Developed CMS-based architecture, improving content update efficiency by 50%
    - Integrated analytics tracking for 200K+ registered users, increasing retention by 25%
    - Implemented responsive design, boosting mobile traffic by 30% in 3 months
 
-2. **Visaco (iOS & Android)**
+2. **[Visaco](https://play.google.com/store/apps/details?id=com.visaco.visacoapp) (iOS & Android)**
    - Streamlined visa application platform, reducing completion time by 40% and increasing successful submissions by 30%
    - Implemented real-time visa status tracking, decreasing customer support inquiries by 50%
    - Integrated automated document verification, cutting processing times by 60%
 
-3. **Shadowfax**
+3. **[Shadowfax](https://shadowfax.moshimoshi.cloud/)**
    - Improved tracking features, reducing customer support inquiries by 40%
    - Implemented error tracking, decreasing unresolved bugs by 60% in the first month
    - Optimized API calls, cutting data retrieval time by 50%
 
-4. **Romson**
+4. **[Romson](https://romson-frontend.moshimoshi.cloud/)**
    - Developed an animated website, increasing average session duration by 45%
    - Implemented a CMS that reduced content update time by 70%
    - Optimized site performance, resulting in a 25% increase in organic traffic
